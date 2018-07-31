@@ -1,0 +1,65 @@
+/*about.css*/
+
+
+body {
+	background-color: rgb(244, 212, 66);
+	font-family: 'Acme', sans-serif;
+}
+   
+
+
+#page_title {
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	text-shadow: 1px 1px 1px darkgrey;
+	background-color: snow;
+	font-size: 2em;
+	letter-spacing: .2em;
+}
+
+.top_nav_item {
+	margin: 10px;
+	color: midnightblue;
+	font-size: 1.2em;
+	text-decoration: none;
+
+
+}
+
+.top_nav_item:hover {
+	margin: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#current_page {
+	border-bottom: 3px solid midnightblue;
+}
+
+img {
+	box-shadow: 5px 5px 5px darkgrey;
+	width: 20%;
+	height: 20%;
+	text-align: center;
+	margin: auto;
+}
+#pic {
+	text-align: center;
+}
+#fillout {
+	text-align: center;
+}
+#resume {
+	text-align: center;
+}
+
+ #logo {width: 10%; height: 15%; }
+
+p {
+	margin: auto;
+	width: 90%;
+}
+#indent {
+	text-indent: 50px;
+}
